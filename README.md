@@ -10,6 +10,8 @@ The programmer's output files are used in this project's downstream analysis. Th
 
 
 Gene_exp_diff <- /projectnb/bf528/users/dachsund/project_2/cuffdiff_out/gene_exp.diff
+
 genes.fpkm_tracking <-/projectnb/bf528/users/dachsund/project_2/cuffdiff_out/genes.fpkm_tracking
+
 fpkm_matrix <- /project/bf528/project_2/data/fpkm_matrix.csv
 
